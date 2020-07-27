@@ -1,0 +1,10 @@
+html {
+  /* prevent padding adding extra 
+  width/height to page (scroll bar!) */
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
